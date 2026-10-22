@@ -1,0 +1,7 @@
+chr5	1220000	1220600	elem_A
+chr5	1250000	1250800	elem_B
+chr5	1294989	1295601	TERT_promoter_fixture
+chr5	1330000	1330500	elem_C
+chr5	1360000	1360700	elem_D
+chr5	1380000	1380400	elem_E
+chrUn_KI270742v1	100	600	elem_unplaced
