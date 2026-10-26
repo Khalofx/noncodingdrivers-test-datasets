@@ -1,0 +1,6 @@
+sample,entry,cohort,cancer_type,assembly,mutations,vcf,index,maf,vcf_tumour_id
+synth_tert_mutations,mutations,SYNTH-TERT,,GRCh38,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/mutations_tiers.tsv,,,,
+D01,vcf,SYNTH-TERT,,GRCh38,,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/vcf/D01.vcf.gz,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/vcf/D01.vcf.gz.tbi,,
+D02,vcf,SYNTH-TERT,,GRCh38,,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/vcf/D02.ensembl.vcf.gz,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/vcf/D02.ensembl.vcf.gz.tbi,,
+D03,sarek,SYNTH-TERT,,GRCh38,,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/vcf/D03.sarek.vcf.gz,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/vcf/D03.sarek.vcf.gz.tbi,,D03_T
+synth_tert_maf,maf,SYNTH-TERT,,hg19,,,,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/synth_tert_tiers.hg19.maf,

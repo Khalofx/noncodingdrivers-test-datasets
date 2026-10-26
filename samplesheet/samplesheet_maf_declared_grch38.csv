@@ -1,0 +1,2 @@
+sample,entry,cohort,cancer_type,assembly,mutations,vcf,index,maf
+synth_tert_maf,maf,SYNTH-TERT,,GRCh38,,,,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/synth_tert.hg19.maf

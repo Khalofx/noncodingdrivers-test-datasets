@@ -1,0 +1,2 @@
+sample,entry,cohort,cancer_type,assembly,mutations,vcf,index,maf
+synth_tert_all,vcf,SYNTH-TERT,,hg19,,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/vcf/synth_tert_all.vcf.gz,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synthetic_tert/harmonisation/vcf/synth_tert_all.vcf.gz.tbi,
