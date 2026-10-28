@@ -1,0 +1,96 @@
+{
+  "seed": 20260923,
+  "donors": 60,
+  "total_mutations": 231472,
+  "background_mutations": 231411,
+  "background_per_donor_range": [
+    2066,
+    6798
+  ],
+  "planted": [
+    {
+      "planted_id": "E1",
+      "element_id": "promoter_ENSR00000746745",
+      "chrom": "chr5",
+      "start0": 1294989,
+      "end": 1295601,
+      "length_bp": 612,
+      "donors_mutated": 18,
+      "mutations": 18,
+      "element_at_fraction": 0.239,
+      "mutation_at_fraction": 0.0,
+      "median_cadd_phred": 7.509,
+      "design": "TERT promoter hotspots C228T (12 donors) + C250T (6 donors)"
+    },
+    {
+      "planted_id": "E2",
+      "element_id": "enhancer_ENSR00001140199",
+      "chrom": "chr8",
+      "start0": 80974401,
+      "end": 80975200,
+      "length_bp": 799,
+      "donors_mutated": 14,
+      "mutations": 14,
+      "element_at_fraction": 0.637,
+      "mutation_at_fraction": 0.643,
+      "median_cadd_phred": 15.3,
+      "design": "14 donors, positions drawn from the top-CADD SNVs in the element"
+    },
+    {
+      "planted_id": "E3",
+      "element_id": "enhancer_ENSR00000839370",
+      "chrom": "chr7",
+      "start0": 130261000,
+      "end": 130262000,
+      "length_bp": 1000,
+      "donors_mutated": 10,
+      "mutations": 10,
+      "element_at_fraction": 0.53,
+      "mutation_at_fraction": 0.5,
+      "median_cadd_phred": 5.6,
+      "design": "10 donors, random positions and spectrum-drawn alleles"
+    },
+    {
+      "planted_id": "E4",
+      "element_id": "enhancer_ENSR00001144769",
+      "chrom": "chr8",
+      "start0": 135452142,
+      "end": 135453200,
+      "length_bp": 1058,
+      "donors_mutated": 4,
+      "mutations": 4,
+      "element_at_fraction": 0.564,
+      "mutation_at_fraction": 0.0,
+      "median_cadd_phred": 20.6,
+      "design": "4 donors, top-CADD SNVs (impact without much burden)"
+    },
+    {
+      "planted_id": "E5",
+      "element_id": "enhancer_ENSR00001173236",
+      "chrom": "chr1",
+      "start0": 184068000,
+      "end": 184069400,
+      "length_bp": 1400,
+      "donors_mutated": 3,
+      "mutations": 3,
+      "element_at_fraction": 0.658,
+      "mutation_at_fraction": 0.667,
+      "median_cadd_phred": 3.685,
+      "design": "3 donors, random positions (at or below detection limit)"
+    },
+    {
+      "planted_id": "E6",
+      "element_id": "enhancer_ENSR00001022568",
+      "chrom": "chr19",
+      "start0": 14566933,
+      "end": 14567546,
+      "length_bp": 613,
+      "donors_mutated": 12,
+      "mutations": 12,
+      "element_at_fraction": 0.383,
+      "mutation_at_fraction": 1.0,
+      "median_cadd_phred": 1.509,
+      "design": "12 donors, A/T reference bases only in a GC-rich element (spectrum decoy)"
+    }
+  ]
+}

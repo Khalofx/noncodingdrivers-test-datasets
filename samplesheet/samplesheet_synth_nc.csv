@@ -1,0 +1,2 @@
+sample,entry,cohort,cancer_type,assembly,mutations,vcf,index,maf
+synth_nc_maf,maf,SYNTH-NC,,GRCh38,,,,https://raw.githubusercontent.com/Khalofx/noncodingdrivers-test-datasets/main/data/synth_nc/SYNTH-NC.maf.gz
