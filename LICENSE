@@ -23,3 +23,11 @@ SOFTWARE.
 The file data/synthetic_tert/oncodrivefml/cadd_subset.tsv.gz and its index are
 excluded from this licence: they contain CADD v1.7 scores, which remain under
 CADD's own terms (free for non-commercial use). See README.md.
+
+The file data/synthetic_tert/harmonisation/hg19ToHg38.chr5_1-1400115.chain is
+excluded from this licence: it is clipped from the UCSC hg19ToHg38 chain file,
+which remains under UCSC's chain-file terms (free for non-commercial use by
+independent researchers and nonprofit organisations; any other use requires a
+commercial licence from UCSC). Those terms are in
+data/synthetic_tert/harmonisation/UCSC_liftOver_README.txt (UCSC's text, also
+excluded). See README.md.
